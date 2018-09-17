@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookStoreV2</string>
+    <string name="title_activity_giao_dien_nguoi_dung">GiaoDienNguoiDung</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_noi_dung">NoiDung</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+</resources>

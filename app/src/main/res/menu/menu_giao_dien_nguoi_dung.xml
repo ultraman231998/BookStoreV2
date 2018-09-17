@@ -1,0 +1,26 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.nguyenpro231998.bookstorev2.GiaoDienNguoiDung">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="@string/action_settings"
+        app:showAsAction="never" />
+    <item
+        android:icon="@drawable/ic_menu_gallery"
+        android:title="Sách Yêu Thích"
+        />
+    <item
+        android:icon="@drawable/ic_menu_manage"
+        android:title="Cài Đặt"
+        />
+    <item
+        android:icon="@drawable/ic_menu_share"
+        android:title="Lịch Sử Giao Dịch"
+        />
+    <item
+        android:icon="@drawable/ic_menu_send"
+        android:title="Phản Hồi"
+        />
+</menu>
